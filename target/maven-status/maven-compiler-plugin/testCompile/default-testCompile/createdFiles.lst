@@ -1,0 +1,4 @@
+eventApp/apiServer/ApiServerApplicationTests.class
+eventApp/apiServer/events/EventServiceTest.class
+eventApp/apiServer/events/EventMockRepoTest.class
+eventApp/apiServer/events/EventControllerTest.class

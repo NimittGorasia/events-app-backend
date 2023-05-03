@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eventApp.apiServer.events.EventServiceTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.905 s - in eventApp.apiServer.events.EventServiceTest
